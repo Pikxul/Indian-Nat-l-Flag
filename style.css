@@ -1,0 +1,38 @@
+.flag{
+    background-color: white;
+    width: 900px;
+    height: 500px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+#country{
+    position: relative;
+    background-color: blue;
+    top: -182px;
+    left: 350px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.orange{
+    position: relative;
+    top: -50px;
+    background-color: orange;
+    height: 170px;
+}
+.green{
+    position: relative;
+    background-color: green;
+    bottom: -330px;
+    height: 170px;
+}
+p{
+    position: relative;
+    top: 73px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
